@@ -3,7 +3,8 @@ import out
 import user_input
 
 def main():
-    while True:
-        data.output
+    
+       data.output
 
-main()
+while True:
+    main()
